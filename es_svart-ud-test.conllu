@@ -1,0 +1,645 @@
+# sent_id = ALEC-ALEC_C3_A30_4-148
+# time = 00:19:56,920--> 00:20:45,300
+# location = Colombia-Antioquia-Ituango
+# turn_text = I16: El conejo le dijo: "Quedáte aquí y cuando yo te pegue el grito te abrís de patas y manos, abrís la boca y cerrás los ojos".
+# text = El conejo le dijo: "Quedáte aquí y cuando yo te pegue el grito te abrís de patas y manos, abrís la boca y cerrás los ojos".
+# text_orth = El conejo le dijo: "Quedáte aquí y cuando yo te pegue el grito te abrís de patas y manos, abrís la boca y cerrás los ojos".
+# text_en = The rabbit told him: "Stay here and when I hit you the scream (I scream at you), open your legs and hands, open your mouth and close your eyes."
+# lang = es
+1	El	The	_	_	_	_	_	_	_
+2	conejo	rabbit	_	_	_	_	_	_	_
+3	le	him/her	_	_	_	_	_	_	_
+4	dijo	told	_	_	_	_	_	_	SpaceAfter=No
+5	:	_	_	_	_	_	_	_	_
+6	"	_	_	_	_	_	_	_	SpaceAfter=No
+7-8	Quedáte	_	_	_	_	_	_	_	_
+7	Quedá	stay	_	_	_	_	_	_	_
+8	te	you	_	_	_	_	_	_	_
+9	aquí	here	_	_	_	_	_	_	_
+10	y	and	_	_	_	_	_	_	_
+11	cuando	when	_	_	_	_	_	_	_
+12	yo	I	_	_	_	_	_	_	_
+13	te	you	_	_	_	_	_	_	_
+14	pegue	hit	_	_	_	_	_	_	_
+15	el	the	_	_	_	_	_	_	_
+16	grito	scream	_	_	_	_	_	_	_
+17	te	you	_	_	_	_	_	_	_
+18	abrís	open	_	_	_	_	_	_	_
+19	de	from	_	_	_	_	_	_	_
+20	patas	legs	_	_	_	_	_	_	_
+21	y	and	_	_	_	_	_	_	_
+22	manos	hands	_	_	_	_	_	_	SpaceAfter=No
+23	,	_	_	_	_	_	_	_	_
+24	abrís	you open	_	_	_	_	_	_	_
+25	la	the	_	_	_	_	_	_	_
+26	boca	mouth	_	_	_	_	_	_	_
+27	y	and	_	_	_	_	_	_	_
+28	cerrás	you close	_	_	_	_	_	_	_
+29	los	the	_	_	_	_	_	_	_
+30	ojos	eyes	_	_	_	_	_	_	SpaceAfter=No
+31	"	_	_	_	_	_	_	_	SpaceAfter=No
+32	.	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-BUE_001_03_19-537
+# time = 00:24:23.11-00:24:26.50
+# location = Argentina-Buenos Aires-Buenos Aires
+# turn_text = C: ¿vos seguís a la<alargamiento/>/ la Bonaerense?/ creo que ya [hablamos]
+# text = ¿vos seguís a la la Bonaerense?, creo que ya hablamos
+# text_orth = ¿vos seguís a la la Bonaerense?, creo que ya hablamos
+# text_en = Do you follow the the Bonaerense?, I think we already talked
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	vos	you	_	_	_	_	_	_	_
+3	seguís	follow	_	_	_	_	_	_	_
+4	a	to	_	_	_	_	_	_	_
+5	la	the	_	_	_	_	_	_	_
+6	la	the	_	_	_	_	_	_	_
+7	Bonaerense	Bonaerense	_	_	_	_	_	_	SpaceAfter=No
+8	?	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	creo	I think	_	_	_	_	_	_	_
+11	que	that	_	_	_	_	_	_	_
+12	ya	already	_	_	_	_	_	_	_
+13	hablamos	we talked	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-IQQ_002_06_12-2
+# time = 00:00:00.00-00:00:05.66
+# location = Chile-Iquique-Iquique
+# turn_text = Hija: [<ininteligible/>]/ [en] noviembre tení que llenar el <siglas t="fuas">FUAS</siglas>/ y el <siglas t="fuas">FUAS</siglas> ahí te dan tu- postulái a becas
+# text = en noviembre tení que llenar el FUAS y el FUAS ahí te dan tu postulái a becas
+# text_orth = en noviembre tení que llenar el FUAS y el FUAS ahí te dan tu postulái a becas
+# text_en = in November you have to fill out the FUAS and the FUAS there they give you you apply for scholarships
+# lang = es
+1	en	in	_	_	_	_	_	_	_
+2	noviembre	November	_	_	_	_	_	_	_
+3	tení	you had	_	_	_	_	_	_	_
+4	que	to	_	_	_	_	_	_	_
+5	llenar	fill out	_	_	_	_	_	_	_
+6	el	the	_	_	_	_	_	_	_
+7	FUAS	FUAS	_	_	_	_	_	_	_
+8	y	and	_	_	_	_	_	_	_
+9	el	the	_	_	_	_	_	_	_
+10	FUAS	FUAS	_	_	_	_	_	_	_
+11	ahí	there	_	_	_	_	_	_	_
+12	te	you	_	_	_	_	_	_	_
+13	dan	give	_	_	_	_	_	_	_
+14	tu	your	_	_	_	_	_	_	_
+15	postulái	apply	_	_	_	_	_	_	_
+16	a	to	_	_	_	_	_	_	_
+17	becas	scholarships	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-MEX_004_04_15-443
+# time = 00:16:25.21-00:16:34.53
+# location = México-Ciudad de México-Ciudad de México
+# turn_text = V4: no <ininteligible/> como<alargamiento/>// ¿cómo decís acá? <ininteligible/> a alguien para evitar que te metieran al tango/// (1.3) pinche güey [<ininteligible/>]
+# text = no como ¿cómo decís acá? a alguien para evitar que te metieran al tango, pinche güey
+# text_orth = no como, ¿cómo decís acá? a alguien para evitar que te metieran al tango, pinche güey
+# text_en = not as, how do you say here? to someone to prevent them from getting you into tango, damn dude
+# lang = es
+1	no	no	_	_	_	_	_	_	_
+2	como	as/like	_	_	_	_	_	_	_
+3	¿	_	_	_	_	_	_	_	SpaceAfter=No
+4	cómo	how	_	_	_	_	_	_	_
+5	decís	you say	_	_	_	_	_	_	_
+6	acá	here	_	_	_	_	_	_	SpaceAfter=No
+7	?	_	_	_	_	_	_	_	_
+8	a	to	_	_	_	_	_	_	_
+9	alguien	someone	_	_	_	_	_	_	_
+10	para	to	_	_	_	_	_	_	_
+11	evitar	avoid	_	_	_	_	_	_	_
+12	que	that	_	_	_	_	_	_	_
+13	te	you	_	_	_	_	_	_	_
+14	metieran	get into	_	_	_	_	_	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	to	_	_	_	_	_	_	_
+16	el	the	_	_	_	_	_	_	_
+17	tango	tango	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	pinche	damn	_	_	_	_	_	_	_
+20	güey	dude	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-TGU_003_03_19-231
+# time = 00:09:59.88-00:10:13.60
+# location = Honduras-Francisco Morazán-Tegucigalpa
+# turn_text = A: y a mí/ a mí por ratos me dan ganas de estudiar medicina/ vos sabés que terminarme una<alargamiento/>/ la la de <ininteligible/> o sea terminar esta y<alargamiento/>/ seguir con la licenciatura aquella unos tres años más// por cua- cua- unos cuan- a los veintiocho ven[dría terminando]
+# text = y a mí, a mí por ratos me dan ganas de estudiar medicina, vos sabés que terminarme una la la de o sea terminar esta y seguir con la licenciatura aquella unos tres años más, por cua cua unos cuan a los veintiocho vendría terminando
+# text_orth = y a mí, a mí por ratos me dan ganas de estudiar medicina, vos sabés que terminarme una la la de o sea terminar esta y seguir con la licenciatura aquella unos tres años más, por cua cua unos cuan a los veintiocho vendría terminando
+# text_en = and to me, at times it makes me want to study medicine, you know that I should finish one the the one from, I mean, finish this one and continue with that bachelor for about three more years, by cua cua about cua at twenty-eight I would finishing
+# lang = es
+1	y	and	_	_	_	_	_	_	_
+2	a	to	_	_	_	_	_	_	_
+3	mí	me	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	a	to	_	_	_	_	_	_	_
+6	mí	me	_	_	_	_	_	_	_
+7	por	at	_	_	_	_	_	_	_
+8	ratos	times	_	_	_	_	_	_	_
+9	me	me	_	_	_	_	_	_	_
+10	dan	give	_	_	_	_	_	_	_
+11	ganas	desire	_	_	_	_	_	_	_
+12	de	of	_	_	_	_	_	_	_
+13	estudiar	study	_	_	_	_	_	_	_
+14	medicina	medicine	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	vos	you	_	_	_	_	_	_	_
+17	sabés	know	_	_	_	_	_	_	_
+18	que	that	_	_	_	_	_	_	_
+19-20	terminarme	_	_	_	_	_	_	_	_
+19	terminar	finish	_	_	_	_	_	_	_
+20	me	me	_	_	_	_	_	_	_
+21	una	a	_	_	_	_	_	_	_
+22	la	the	_	_	_	_	_	_	_
+23	la	the	_	_	_	_	_	_	_
+24	de	of	_	_	_	_	_	_	_
+25	o	or	_	_	_	_	_	_	_
+26	sea	be	_	_	_	_	_	_	_
+27	terminar	finish	_	_	_	_	_	_	_
+28	esta	this	_	_	_	_	_	_	_
+29	y	and	_	_	_	_	_	_	_
+30	seguir	continue	_	_	_	_	_	_	_
+31	con	with	_	_	_	_	_	_	_
+32	la	the	_	_	_	_	_	_	_
+33	licenciatura	bachelor	_	_	_	_	_	_	_
+34	aquella	that	_	_	_	_	_	_	_
+35	unos	some	_	_	_	_	_	_	_
+36	tres	three	_	_	_	_	_	_	_
+37	años	years	_	_	_	_	_	_	_
+38	más	more	_	_	_	_	_	_	SpaceAfter=No
+39	,	_	_	_	_	_	_	_	_
+40	por	by	_	_	_	_	_	_	_
+41	cua	_	_	_	_	_	_	_	_
+42	cua	_	_	_	_	_	_	_	_
+43	unos	some	_	_	_	_	_	_	_
+44	cuan	_	_	_	_	_	_	_	_
+45	a	at	_	_	_	_	_	_	_
+46	los	the	_	_	_	_	_	_	_
+47	veintiocho	twenty-eight	_	_	_	_	_	_	_
+48	vendría	would be/come	_	_	_	_	_	_	_
+49	terminando	finishing	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-VVU_001_02_17-12
+# time = 00:00:47.02-00:00:48.77
+# location = Bolivia-Santa Cruz-Santa Cruz
+# turn_text = B: iba a salir más tarde/ [vos siempre] salís tarde
+# text = iba a salir más tarde, vos siempre salís tarde
+# text_orth = iba a salir más tarde, vos siempre salís tard
+# text_en = I was going to leave later, you always leave late
+# lang = es
+1	iba	was going	_	_	_	_	_	_	_
+2	a	to	_	_	_	_	_	_	_
+3	salir	go out	_	_	_	_	_	_	_
+4	más	later	_	_	_	_	_	_	_
+5	tarde	late	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	vos	you	_	_	_	_	_	_	_
+8	siempre	always	_	_	_	_	_	_	_
+9	salís	go out	_	_	_	_	_	_	_
+10	tarde	late	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = PRESEEA-GUAT_H12_044-7
+# time = 08:21
+# location = Guatemala-Guatemala-Ciudad de Guatemala
+# turn_text = E:¿y de donde nace la inquietud / de querer vender / porque tengo entendido que<alargamiento/> <vacilación/> que vos sos bachiller en ciencias y letras?
+# text = ¿y de donde nace la inquietud, de querer vender, porque tengo entendido que que vos sos bachiller en ciencias y letras?
+# text_orth = ¿y de donde nace la inquietud, de querer vender, porque tengo entendido que que vos sos bachiller en ciencias y letras?
+# text_en = and where does the concern come from, of wanting to sell, because I understand that that you are graduate in science and literature?
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	y	and	_	_	_	_	_	_	_
+3	de	of	_	_	_	_	_	_	_
+4	donde	where	_	_	_	_	_	_	_
+5	nace	is born/come from	_	_	_	_	_	_	_
+6	la	the	_	_	_	_	_	_	_
+7	inquietud	concern	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	de	of	_	_	_	_	_	_	_
+10	querer	want	_	_	_	_	_	_	_
+11	vender	sell	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	porque	because	_	_	_	_	_	_	_
+14	tengo	I have	_	_	_	_	_	_	_
+15	entendido	understood	_	_	_	_	_	_	_
+16	que	that	_	_	_	_	_	_	_
+17	que	that	_	_	_	_	_	_	_
+18	vos	you	_	_	_	_	_	_	_
+19	sos	are	_	_	_	_	_	_	_
+20	bachiller	graduate	_	_	_	_	_	_	_
+21	en	in	_	_	_	_	_	_	_
+22	ciencias	sciences	_	_	_	_	_	_	_
+23	y	and	_	_	_	_	_	_	_
+24	letras	letters	_	_	_	_	_	_	SpaceAfter=No
+25	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = PRESEEA-MONV_H23_019-5
+# time = 00:00
+# location = Uruguay-Montevideo-Montevideo
+# turn_text = E:bueno / contame / eeh ¿cómo generalmente te referís la gente? / ¿la tratás de vo<alargamiento/>s / la tratás de uste<alargamiento/>d / la tuteás?
+# text = bueno, contame, eeh ¿cómo generalmente te referís la gente?, ¿la tratás de vos, la tratás de usted, la tuteás?
+# text_orth = bueno, contame, eeh ¿cómo generalmente te referís la gente?, ¿la tratás de vos, la tratás de usted, la tuteás?
+# text_en = well, tell me, eh, how do you generally refer to people? do you address them as 'vos', do you address them as 'usted', do you use 'tu'?
+# lang = es
+1	bueno	well	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3-4	contame	_	_	_	_	_	_	_	_
+3	conta	tell	_	_	_	_	_	_	_
+4	me	me	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	eeh	uh	_	_	_	_	_	_	_	_
+7	¿	_	_	_	_	_	_	_	SpaceAfter=No
+8	cómo	how	_	_	_	_	_	_	_
+9	generalmente	generally	_	_	_	_	_	_	_
+10	te	you	_	_	_	_	_	_	_
+11	referís	refer	_	_	_	_	_	_	_
+12	la	the	_	_	_	_	_	_	_
+13	gente	people	_	_	_	_	_	_	SpaceAfter=No
+14	?	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	¿	_	_	_	_	_	_	_	SpaceAfter=No
+17	la	them	_	_	_	_	_	_	_
+18	tratás	you treat/address	_	_	_	_	_	_	_
+19	de	as	_	_	_	_	_	_	_
+20	vos	vos	_	_	_	_	_	_	SpaceAfter=No
+21	,	_	_	_	_	_	_	_	_
+22	la	them	_	_	_	_	_	_	_
+23	tratás	treat/address	_	_	_	_	_	_	_
+24	de	as	_	_	_	_	_	_	_
+25	usted	usted	_	_	_	_	_	_	SpaceAfter=No
+26	,	_	_	_	_	_	_	_	_
+27	la	them	_	_	_	_	_	_	_
+28	tuteás	you use tú	_	_	_	_	_	_	SpaceAfter=No
+29	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+
+# sent_id = AMERESCO-BUE_002_03_20-53
+# time = 00:03:20.12-00:03:20.65
+# location = Argentina-Buenos Aires-Buenos Aires
+# turn_text = B: ¿el dos mil veinte es [nuestro año] decís vos?
+# text = ¿el dos mil veinte es nuestro año decís vos?
+# text_orth = ¿el dos mil veinte es nuestro año decís vos?
+# text_en = Two thousand twenty is our year, you say?
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	el	the	_	_	_	_	_	_	_
+3	dos	two	_	_	_	_	_	_	_
+4	mil	thousand	_	_	_	_	_	_	_
+5	veinte	twenty	_	_	_	_	_	_	_
+6	es	is	_	_	_	_	_	_	_
+7	nuestro	our	_	_	_	_	_	_	_
+8	año	year	_	_	_	_	_	_	_
+9	decís	you say	_	_	_	_	_	_	_
+10	vos	you	_	_	_	_	_	_	_	SpaceAfter=No
+11	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = AMERESCO-TGU_007_03_19-276
+# time = 00:09:57.86-00:10:03.23
+# location = Honduras-Francisco Morazán-Tegucigalpa
+# turn_text = C: <fsr t="perate">esperate</fsr> que- fijate que con dos días que vas te miro que venís un poco lacia la panza fijate que ((te conviene estar un mes allá))
+# text = perate que fijate que con dos días que vas te miro que venís un poco lacia la panza fijate que te conviene estar un mes allá
+# text_orth = esperate que fijate que con dos días que vas te miro que venís un poco lacia la panza fijate que te conviene estar un mes allá
+# text_en = wait that notice that with two days that you are going I look at you that your belly is a little limp, notice that it is good for you to be there for a month
+# lang = es
+1-2	perate	_	_	_	_	_	_	_	Ortho=esperate
+1	pera	wait	_	_	_	_	_	_	_
+2	te	you	_	_	_	_	_	_	_
+3	que	that	_	_	_	_	_	_	_
+4-5	fijate	_	_	_	_	_	_	_	_
+4	fija	look	_	_	_	_	_	_	_
+5	te	you	_	_	_	_	_	_	_
+6	que	that	_	_	_	_	_	_	_
+7	con	with	_	_	_	_	_	_	_
+8	dos	two	_	_	_	_	_	_	_
+9	días	days	_	_	_	_	_	_	_
+10	que	that	_	_	_	_	_	_	_
+11	vas	you go	_	_	_	_	_	_	_
+12	te	you	_	_	_	_	_	_	_
+13	miro	I see	_	_	_	_	_	_	_
+14	que	that	_	_	_	_	_	_	_
+15	venís	you come	_	_	_	_	_	_	_
+16	un	a	_	_	_	_	_	_	_
+17	poco	little	_	_	_	_	_	_	_
+18	lacia	lean	_	_	_	_	_	_	_
+19	la	the	_	_	_	_	_	_	_
+20	panza	belly	_	_	_	_	_	_	_
+21-22	fijate	_	_	_	_	_	_	_	_
+21	fia	look	_	_	_	_	_	_	_
+22	te	you	_	_	_	_	_	_	_
+23	que	that	_	_	_	_	_	_	_
+24	te	you	_	_	_	_	_	_	_
+25	conviene	suits	_	_	_	_	_	_	_
+26	estar	to be	_	_	_	_	_	_	_
+27	un	a	_	_	_	_	_	_	_
+28	mes	month	_	_	_	_	_	_	_
+29	allá	there	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = PRESEEA-ALCA_H22_025-106
+# time = 04:00
+# location = España-Madrid-Alcalá de Henares
+# turn_text = E:<simultáneo> por veintisiete </simultáneo> ¿no? seguís por el veintisiete ¿no?
+# text = por veintisiete ¿no? seguís por el veintisiete ¿no?
+# text_orth = por veintisiete ¿no? seguís por el veintisiete ¿no?
+# text_en = for twenty-seven right? you're still on twenty-seven, right?
+# lang = es
+1	por	for	_	_	_	_	_	_	_
+2	veintisiete	twenty-seven	_	_	_	_	_	_	_
+3	¿	_	_	_	_	_	_	_	SpaceAfter=No
+4	no	right	_	_	_	_	_	_	SpaceAfter=No
+5	?	_	_	_	_	_	_	_	_
+6	seguís	you are still	_	_	_	_	_	_	_	_
+7	por	on	_	_	_	_	_	_	_	_
+8	el	the	_	_	_	_	_	_	_	_
+9	veintisiete	twenty-seven	_	_	_	_	_	_	_	_
+10	¿	_	_	_	_	_	_	_	SpaceAfter=No
+11	no	right	_	_	_	_	_	_	SpaceAfter=No
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = PRESEEA-GUAT_H12_044-21
+# time = 15:38
+# location = Guatemala-Guatemala-Ciudad de Guatemala
+# turn_text = E:¿y vos sos machista / o cómo te considerás?
+# text = ¿y vos sos machista o cómo te considerás?
+# text_orth = ¿y vos sos machista o cómo te considerás?
+# text_en = And you are sexist or how do you consider yourself?
+# lang = es
+1	¿	_	_	_	_	_	_	_	SpaceAfter=No
+2	y	and	_	_	_	_	_	_	_
+3	vos	you	_	_	_	_	_	_	_
+4	sos	are	_	_	_	_	_	_	_
+5	machista	sexist	_	_	_	_	_	_	_
+6	o	or	_	_	_	_	_	_	_
+7	cómo	how	_	_	_	_	_	_	_
+8	te	you	_	_	_	_	_	_	_
+9	considerás	consider yourself	_	_	_	_	_	_	_	SpaceAfter=No
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = ALEC-ALEC_C22_N40_5-2
+# time = 00:00:23,030--> 00:08:18,400
+# location = Colombia-Nariño-La Florida
+# turn_text = I7: No te doy una posada porque viene mi hija y te come, "te entumís", izque=dizque dijo, del hielo. 
+# text = No te doy una posada porque viene mi hija y te come, "te entumís", izque dijo, del hielo. 
+# text_orth = No te doy una posada porque viene mi hija y te come, "te entumís", dizque dijo, del hielo. 
+# text_en = I don't give you lodging because my daughter comes and eats you, "you get numb", supposedly she said, from the ice.
+# lang = es
+1	No	no	_	_	_	_	_	_	_
+2	te	you	_	_	_	_	_	_	_
+3	doy	give	_	_	_	_	_	_	_
+4	una	a	_	_	_	_	_	_	_
+5	posada	lodging	_	_	_	_	_	_	_
+6	porque	because	_	_	_	_	_	_	_
+7	viene	is coming	_	_	_	_	_	_	_
+8	mi	my	_	_	_	_	_	_	_
+9	hija	daughter	_	_	_	_	_	_	_
+10	y	and	_	_	_	_	_	_	_
+11	te	you	_	_	_	_	_	_	_
+12	come	eat	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	SpaceAfter=No
+15	te	you	_	_	_	_	_	_	_
+16	entumís	get numb	_	_	_	_	_	_	_	SpaceAfter=No
+17	"	_	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	izque	supposedly	_	_	_	_	_	_	_	_
+20	dijo	said	_	_	_	_	_	_	_	SpaceAfter=No
+21	,	_	_	_	_	_	_	_	_
+22-23	del	from the	_	_	_	_	_	_	_	_
+22	de	from	_	_	_	_	_	_	_	_
+23	el	the	_	_	_	_	_	_	_	_
+24	hielo	cold	_	_	_	_	_	_	_	SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = PRESEEA-GUAT_H12_044-39
+# time = 19:21
+# location = Guatemala-Guatemala-Ciudad de Guatemala
+# turn_text = E:cambiando un poquito la conversación // en relación a lo espiritual <silencio/> ¿de qué religión sos? contame un poquito si vas a la iglesía // ¿o qué pensás de Dios? //
+# text = cambiando un poquito la conversación en relación a lo espiritual ¿de qué religión sos? contame un poquito si vas a la iglesía ¿o qué pensás de Dios?
+# text_orth = cambiando un poquito la conversación en relación a lo espiritual ¿de qué religión sos? contame un poquito si vas a la iglesía ¿o qué pensás de Dios?
+# text_en = changing the conversation a little in relation to the spiritual what religion are you? Tell me a little bit if you go to church or what do you think about God? //
+# lang = es
+1	cambiando	changing	_	_	_	_	_	_	_
+2	un	a	_	_	_	_	_	_	_
+3	poquito	little bit	_	_	_	_	_	_	_
+4	la	the	_	_	_	_	_	_	_
+5	conversación	conversation	_	_	_	_	_	_	_
+6	en	in	_	_	_	_	_	_	_
+7	relación	relation	_	_	_	_	_	_	_
+8	a	to	_	_	_	_	_	_	_
+9	lo	the	_	_	_	_	_	_	_
+10	espiritual	spiritual	_	_	_	_	_	_	_
+11	¿	_	_	_	_	_	_	_	SpaceAfter=No
+12	de	of	_	_	_	_	_	_	_
+13	qué	what	_	_	_	_	_	_	_
+14	religión	religion	_	_	_	_	_	_	_
+15	sos	are you	_	_	_	_	_	_	_	SpaceAfter=No
+16	?	_	_	_	_	_	_	_	_
+17-18	contame	tell me	_	_	_	_	_	_	_	_
+17	conta	tell	_	_	_	_	_	_	_	_
+18	me	me	_	_	_	_	_	_	_
+19	un	a	_	_	_	_	_	_	_
+20	poquito	little bit	_	_	_	_	_	_	_
+21	si	if	_	_	_	_	_	_	_
+22	vas	go	_	_	_	_	_	_	_
+23	a	to	_	_	_	_	_	_	_
+24	la	the	_	_	_	_	_	_	_
+25	iglesía	church	_	_	_	_	_	_	_
+26	¿	_	_	_	_	_	_	_	SpaceAfter=No
+27	o	or	_	_	_	_	_	_	_
+28	qué	what	_	_	_	_	_	_	_
+29	pensás	think	_	_	_	_	_	_	_
+30	de	of	_	_	_	_	_	_	_
+31	Dios	God	_	_	_	_	_	_	_	SpaceAfter=No
+32	?	_	_	_	_	_	_	_	_
+
+# sent_id = ALEC-ALEC_C23_NS61_2-35
+# time = 01:15:22,646--> 01:18:50,874
+# location = Colombia-Norte de Santander-Pamplona
+# turn_text = I1: Ala, pero sabes qué, que, que vos sí que sos delicado, ala, por todo me formás pelea.
+# text = Ala, pero sabes qué, que, que vos sí que sos delicado, ala, por todo me formás pelea.
+# text_orth = Ala, pero sabes qué, que, que vos sí que sos delicado, ala, por todo me formás pelea.
+# text_en = Ala, but you know what, you really are delicate, ala, you fight me for everything.
+# lang = es
+1	Ala	ala	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	pero	but	_	_	_	_	_	_	_
+4	sabes	you know	_	_	_	_	_	_	_
+5	qué	what	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	que	that	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	que	that	_	_	_	_	_	_	_
+10	vos	you	_	_	_	_	_	_	_
+11	sí	really	_	_	_	_	_	_	_
+12	que	that	_	_	_	_	_	_	_
+13	sos	are	_	_	_	_	_	_	_
+14	delicado	delicate	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	ala	ala	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	por	for	_	_	_	_	_	_	_
+19	todo	everything	_	_	_	_	_	_	_
+20	me	me	_	_	_	_	_	_	_
+21	formás	you form	_	_	_	_	_	_	_
+22	pelea	fight	_	_	_	_	_	_	_	SpaceAfter=No
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = AMERESCO-BUE_002_03_20-373
+# time = 00:16:24.98-00:16:28.77
+# location = Argentina-Buenos Aires-Buenos Aires
+# turn_text = B: está abajo e<alargamiento/>h/// (1.1) salís del bar a la derecha abajo de la escalera del bañe
+# text = está abajo eh, salís del bar a la derecha abajo de la escalera del bañe
+# text_orth = está abajo eh, salís del bar a la derecha abajo de la escalera del bañe
+# text_en = it is below eh, you leave the bar to the right below the bathroom stairs
+# lang = es
+1	está	is	_	_	_	_	_	_	_
+2	abajo	downstairs	_	_	_	_	_	_	_
+3	eh	eh	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	salís	you go out	_	_	_	_	_	_	_
+6-7	del	of the	_	_	_	_	_	_	_	_
+6	de	of	_	_	_	_	_	_	_	_
+7	el	the	_	_	_	_	_	_	_	_
+8	bar	bar	_	_	_	_	_	_	_
+9	a	to	_	_	_	_	_	_	_
+10	la	the	_	_	_	_	_	_	_
+11	derecha	right	_	_	_	_	_	_	_
+12	abajo	down	_	_	_	_	_	_	_
+13	de	of	_	_	_	_	_	_	_
+14	la	the	_	_	_	_	_	_	_
+15	escalera	stairs	_	_	_	_	_	_	_
+16-17	del	of the	_	_	_	_	_	_	_	_
+16	de	of	_	_	_	_	_	_	_	_
+17	el	the	_	_	_	_	_	_	_	_
+18	bañe	bathroom	_	_	_	_	_	_	_	_
+
+# sent_id = AMERESCO-VVU_001_02_17-55
+# time = 00:02:35.37-00:02:38.56
+# location = Bolivia-Santa Cruz-Santa Cruz
+# turn_text = A: ah ese es el que decís si-/ ¿deja <fsr t="usá">usar</fsr> el <fsr t="celulá">celular</fsr>?
+# text = ah ese es el que decís si ¿deja usá el celulá?
+# text_orth = ah ese es el que decís si ¿deja usar el celular?
+# text_en = ah, that's the one you're saying si does it allow using the cell phone?
+# lang = es
+1	ah	ah	_	_	_	_	_	_	_
+2	ese	that	_	_	_	_	_	_	_
+3	es	is	_	_	_	_	_	_	_
+4	el	the	_	_	_	_	_	_	_
+5	que	that	_	_	_	_	_	_	_
+6	decís	you are saying	_	_	_	_	_	_	_
+7	si	yes	_	_	_	_	_	_	_
+8	¿	_	_	_	_	_	_	_	SpaceAfter=No
+9	deja	allow	_	_	_	_	_	_	_
+10	usá	using	_	_	_	_	_	_	_
+11	el	the	_	_	_	_	_	_	_
+12	celulá	cell phone	_	_	_	_	_	_	_	SpaceAfter=No
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = ALEC-ALEC_C26_P_1-10
+# time = 00:01:18,300--> 00:01:33,830
+# location = Colombia-Putumayo-Mocoa
+# turn_text = I3 En después le dijo: "Te pego un cabezazo, si no me sueltas" y llegó y le pegó el cabezazo y no lo soltó y entonces cuando llego la viejita y ezque=dizque le dijo: "¡Ajá! Vos sos el que te vienes a robar las uvillas.
+# text =  En después le dijo: "Te pego un cabezazo, si no me sueltas" y llegó y le pegó el cabezazo y no lo soltó y entonces cuando llego la viejita y ezque le dijo: "¡ajá! vos sos el que te vienes a robar las uvillas.
+# text_orth = En después le dijo: "Te pego un cabezazo, si no me sueltas" y llegó y le pegó el cabezazo y no lo soltó y entonces cuando llego la viejita y dizque le dijo: "¡ajá! vos sos el que te vienes a robar las uvillas.
+# text_en = Afterwards he told her: "I'll headbutt you if you don't let go of me" and he arrived and hit him with his head and he didn't let go and then when the old lady arrived and supposedly said to her/him: "Aha! You're the one who's coming to steal the physalis.
+# lang = es
+1	En	Afterwards	_	_	_	_	_	_	_
+2	después	afterwards	_	_	_	_	_	_	_
+3	le	to her/him	_	_	_	_	_	_	_	_
+4	dijo	said	_	_	_	_	_	_	_	SpaceAfter=No
+5	:	_	_	_	_	_	_	_	_
+6	"	_	_	_	_	_	_	_	SpaceAfter=No
+7	Te	I'll	_	_	_	_	_	_	_	_
+8	pego	hit you	_	_	_	_	_	_	_	_
+9	un	a	_	_	_	_	_	_	_	_
+10	cabezazo	headbutt	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	si	if	_	_	_	_	_	_	_	_
+13	no	don't	_	_	_	_	_	_	_	_
+14	me	let go of me	_	_	_	_	_	_	_	_
+15	sueltas	let go	_	_	_	_	_	_	_	SpaceAfter=No
+16	"	_	_	_	_	_	_	_	_
+17	y	and	_	_	_	_	_	_	_	_
+18	llegó	he arrived	_	_	_	_	_	_	_	_
+19	y	and	_	_	_	_	_	_	_	_
+20	le	him	_	_	_	_	_	_	_	_
+21	pegó	hit	_	_	_	_	_	_	_	_
+22	el	the	_	_	_	_	_	_	_	_
+23	cabezazo	headbutt	_	_	_	_	_	_	_	_
+24	y	and	_	_	_	_	_	_	_	_
+25	no	didn't	_	_	_	_	_	_	_	_
+26	lo	let go	_	_	_	_	_	_	_	_
+27	soltó	let go	_	_	_	_	_	_	_	_
+28	y	and	_	_	_	_	_	_	_	_
+29	entonces	then	_	_	_	_	_	_	_	_
+30	cuando	when	_	_	_	_	_	_	_	_
+31	llego	arrived	_	_	_	_	_	_	_	_
+32	la	the	_	_	_	_	_	_	_	_
+33	viejita	old lady	_	_	_	_	_	_	_	_
+34	y	and	_	_	_	_	_	_	_	_
+35	ezque	supposedly	_	_	_	_	_	_	_	_
+36	le	to her/him	_	_	_	_	_	_	_	_
+37	dijo	said	_	_	_	_	_	_	_	SpaceAfter=No
+38	:	_	_	_	_	_	_	_	_
+39	"	_	_	_	_	_	_	_	SpaceAfter=No
+40	¡	_	_	_	_	_	_	_	SpaceAfter=No
+41	ajá	aha	_	_	_	_	_	_	_	SpaceAfter=No
+42	!	_	_	_	_	_	_	_	_
+43	vos	you	_	_	_	_	_	_	_	_
+44	sos	are	_	_	_	_	_	_	_	_
+45	el	the	_	_	_	_	_	_	_	_
+46	que	who	_	_	_	_	_	_	_	_
+47	te	you	_	_	_	_	_	_	_	_
+48	vienes	are coming	_	_	_	_	_	_	_	_
+49	a	to	_	_	_	_	_	_	_	_
+50	robar	steal	_	_	_	_	_	_	_	_
+51	las	the	_	_	_	_	_	_	_	_
+52	uvillas	physalis	_	_	_	_	_	_	_	SpaceAfter=No
+53	.	_	_	_	_	_	_	_	_
+
+# sent_id = AMERESCO-IQQ_003_05_12-9
+# time = 00:00:11.70-00:00:14.30
+# location = Chile-Iquique-Iquique
+# turn_text = Persona_central: [te dije que] teníai que ponerlo tú pero lo mandái a él
+# text = te dije que teníai que ponerlo tú pero lo mandái a él
+# text_orth = te dije que teníai que ponerlo tú pero lo mandái a él
+# text_en = I told you that you had to put it in but you send/ask him 
+# lang = es
+1	te	you	_	_	_	_	_	_	_
+2	dije	told	_	_	_	_	_	_	_
+3	que	that	_	_	_	_	_	_	_
+4	teníai	had	_	_	_	_	_	_	_
+5	que	to	_	_	_	_	_	_	_
+6-7	ponerlo	put it in	_	_	_	_	_	_	_
+6	poner	put	_	_	_	_	_	_	_
+7	lo	it	_	_	_	_	_	_	_
+8	tú	you	_	_	_	_	_	_	_
+9	pero	but	_	_	_	_	_	_	_
+10	lo	it	_	_	_	_	_	_	_
+11	mandái	send	_	_	_	_	_	_	_
+12	a	to	_	_	_	_	_	_	_
+13	él	him	_	_	_	_	_	_	_
+
+# sent_id = AMERESCO-TGU_007_03_19-355
+# time = 00:13:05.39-00:13:08.35
+# location = Honduras-Francisco Morazán-Tegucigalpa
+# turn_text = C: [pero si] vos lo<alargamiento/>- vos lo contratás solo para vos vos tenés que pagar  los sesen[ta]
+# text = pero si vos lo vos lo contratás solo para vos vos tenés que pagar los sesenta
+# text_orth = pero si vos lo vos lo contratás solo para vos vos tenés que pagar los sesenta
+# text_en = but if you him hire him just for you, you have to pay the seventy
+# lang = es
+1	pero	but	_	_	_	_	_	_	_
+2	si	if	_	_	_	_	_	_	_
+3	vos	you	_	_	_	_	_	_	_
+4	lo	him	_	_	_	_	_	_	_
+5	vos	you	_	_	_	_	_	_	_
+6	lo	him	_	_	_	_	_	_	_
+7	contratás	hire	_	_	_	_	_	_	_
+8	solo	just	_	_	_	_	_	_	_
+9	para	for	_	_	_	_	_	_	_
+10	vos	you	_	_	_	_	_	_	_
+11	vos	you	_	_	_	_	_	_	_
+12	tenés	have	_	_	_	_	_	_	_
+13	que	to	_	_	_	_	_	_	_
+14	pagar	pay	_	_	_	_	_	_	_
+15	los	the	_	_	_	_	_	_	_
+16	sesenta	sixty	_	_	_	_	_	_	_	SpaceAfter=No
+
+
+
