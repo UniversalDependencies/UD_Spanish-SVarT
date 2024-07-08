@@ -551,7 +551,7 @@
 10	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt|SpaceAfter=No
 11	,	_	_	_	_	_	_	_	_
 12	si	_	_	_	_	_	_	_	Gloss=if
-13	no	don't	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	Gloss=don't
 14	me	_	_	_	_	_	_	_	Gloss=let_go_of_me
 15	sueltas	_	_	_	_	_	_	_	Gloss=let_go|SpaceAfter=No
 16	"	_	_	_	_	_	_	_	_
