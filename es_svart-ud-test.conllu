@@ -60,7 +60,7 @@
 10	creo	I think	_	_	_	_	_	_	_
 11	que	_	_	_	_	_	_	_	Gloss=that
 12	ya	_	_	_	_	_	_	_	Gloss=already
-13	hablamos	_	_	_	_	_	_	_	Gloss=we_talked	SpaceAfter=No
+13	hablamos	_	_	_	_	_	_	_	Gloss=we_talked|SpaceAfter=No
 
 # sent_id = AMERESCO-IQQ_002_06_12-2
 # time = 00:00:00.00-00:00:05.66
@@ -244,7 +244,7 @@
 3	conta	_	_	_	_	_	_	_	Gloss=tell
 4	me	_	_	_	_	_	_	_	Gloss=me|SpaceAfter=No
 5	,	_	_	_	_	_	_	_	_
-6	eeh	_	_	_	_	_	_	_	Gloss=uh	_
+6	eeh	_	_	_	_	_	_	_	Gloss=uh
 7	¿	_	_	_	_	_	_	_	SpaceAfter=No
 8	cómo	_	_	_	_	_	_	_	Gloss=how
 9	generalmente	_	_	_	_	_	_	_	Gloss=generally
@@ -344,10 +344,10 @@
 3	¿	_	_	_	_	_	_	_	SpaceAfter=No
 4	no	_	_	_	_	_	_	_	Gloss=right|SpaceAfter=No
 5	?	_	_	_	_	_	_	_	_
-6	seguís	_	_	_	_	_	_	_	Gloss=you_are_still	_
-7	por	_	_	_	_	_	_	_	Gloss=on	_
-8	el	_	_	_	_	_	_	_	Gloss=the	_
-9	veintisiete	twenty-seven	_	_	_	_	_	_	_	_
+6	seguís	_	_	_	_	_	_	_	Gloss=you_are_still
+7	por	_	_	_	_	_	_	_	Gloss=on
+8	el	_	_	_	_	_	_	_	Gloss=the
+9	veintisiete	_	_	_	_	_	_	_	Gloss=twenty-seven
 10	¿	_	_	_	_	_	_	_	SpaceAfter=No
 11	no	_	_	_	_	_	_	_	Gloss=right|SpaceAfter=No
 12	?	_	_	_	_	_	_	_	_
@@ -397,12 +397,12 @@
 16	entumís	_	_	_	_	_	_	_	Gloss=get_numb|SpaceAfter=No
 17	"	_	_	_	_	_	_	_	SpaceAfter=No
 18	,	_	_	_	_	_	_	_	_
-19	izque	_	_	_	_	_	_	_	Gloss=supposedly	_
+19	izque	_	_	_	_	_	_	_	Gloss=supposedly
 20	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
 21	,	_	_	_	_	_	_	_	_
-22-23	del	from_the	_	_	_	_	_	_	_	_
-22	de	_	_	_	_	_	_	_	Gloss=from	_
-23	el	_	_	_	_	_	_	_	Gloss=the	_
+22-23	del	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	Gloss=from
+23	el	_	_	_	_	_	_	_	Gloss=the
 24	hielo	_	_	_	_	_	_	_	Gloss=cold|SpaceAfter=No
 25	.	_	_	_	_	_	_	_	_
 
@@ -430,8 +430,8 @@
 14	religión	_	_	_	_	_	_	_	Gloss=religion
 15	sos	_	_	_	_	_	_	_	Gloss=are_you|SpaceAfter=No
 16	?	_	_	_	_	_	_	_	_
-17-18	contame	tell_me	_	_	_	_	_	_	_	_
-17	conta	_	_	_	_	_	_	_	Gloss=tell	_
+17-18	contame	_	_	_	_	_	_	Gloss=tell_me
+17	conta	_	_	_	_	_	_	_	Gloss=tell
 18	me	_	_	_	_	_	_	_	Gloss=me
 19	un	_	_	_	_	_	_	_	Gloss=a
 20	poquito	_	_	_	_	_	_	_	Gloss=little_bit
@@ -494,8 +494,8 @@
 4	,	_	_	_	_	_	_	_	_
 5	salís	_	_	_	_	_	_	_	Gloss=you_go_out
 6-7	del	of the	_	_	_	_	_	_	_	_
-6	de	_	_	_	_	_	_	_	Gloss=of	_
-7	el	_	_	_	_	_	_	_	Gloss=the	_
+6	de	_	_	_	_	_	_	_	Gloss=of
+7	el	_	_	_	_	_	_	_	Gloss=the
 8	bar	_	_	_	_	_	_	_	Gloss=bar
 9	a	_	_	_	_	_	_	_	Gloss=to
 10	la	_	_	_	_	_	_	_	Gloss=the
@@ -505,9 +505,9 @@
 14	la	_	_	_	_	_	_	_	Gloss=the
 15	escalera	_	_	_	_	_	_	_	Gloss=stairs
 16-17	del	of_the	_	_	_	_	_	_	_	_
-16	de	_	_	_	_	_	_	_	Gloss=of	_
-17	el	_	_	_	_	_	_	_	Gloss=the	_
-18	bañe	_	_	_	_	_	_	_	Gloss=bathroom	_
+16	de	_	_	_	_	_	_	_	Gloss=of
+17	el	_	_	_	_	_	_	_	Gloss=the
+18	bañe	_	_	_	_	_	_	_	Gloss=bathroom
 
 # sent_id = AMERESCO-VVU_001_02_17-55
 # time = 00:02:35.37-00:02:38.56
@@ -547,33 +547,33 @@
 6	"	_	_	_	_	_	_	_	SpaceAfter=No
 7	Te	I'll	_	_	_	_	_	_	_	_
 8	pego	hit you	_	_	_	_	_	_	_	_
-9	un	_	_	_	_	_	_	_	Gloss=a	_
+9	un	_	_	_	_	_	_	_	Gloss=a
 10	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt|SpaceAfter=No
 11	,	_	_	_	_	_	_	_	_
-12	si	_	_	_	_	_	_	_	Gloss=if	_
+12	si	_	_	_	_	_	_	_	Gloss=if
 13	no	don't	_	_	_	_	_	_	_	_
-14	me	_	_	_	_	_	_	_	Gloss=let_go_of_me	_
+14	me	_	_	_	_	_	_	_	Gloss=let_go_of_me
 15	sueltas	_	_	_	_	_	_	_	Gloss=let_go|SpaceAfter=No
 16	"	_	_	_	_	_	_	_	_
-17	y	_	_	_	_	_	_	_	Gloss=and	_
-18	llegó	_	_	_	_	_	_	_	Gloss=he_arrived	_
-19	y	_	_	_	_	_	_	_	Gloss=and	_
-20	le	_	_	_	_	_	_	_	Gloss=him	_
-21	pegó	_	_	_	_	_	_	_	Gloss=hit	_
-22	el	_	_	_	_	_	_	_	Gloss=the	_
-23	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt	_
-24	y	_	_	_	_	_	_	_	Gloss=and	_
+17	y	_	_	_	_	_	_	_	Gloss=and
+18	llegó	_	_	_	_	_	_	_	Gloss=he_arrived
+19	y	_	_	_	_	_	_	_	Gloss=and
+20	le	_	_	_	_	_	_	_	Gloss=him
+21	pegó	_	_	_	_	_	_	_	Gloss=hit
+22	el	_	_	_	_	_	_	_	Gloss=the
+23	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt
+24	y	_	_	_	_	_	_	_	Gloss=and
 25	no	didn't	_	_	_	_	_	_	_	_
-26	lo	_	_	_	_	_	_	_	Gloss=let_go	_
-27	soltó	_	_	_	_	_	_	_	Gloss=let_go	_
-28	y	_	_	_	_	_	_	_	Gloss=and	_
-29	entonces	_	_	_	_	_	_	_	Gloss=then	_
-30	cuando	_	_	_	_	_	_	_	Gloss=when	_
-31	llego	_	_	_	_	_	_	_	Gloss=arrived	_
-32	la	_	_	_	_	_	_	_	Gloss=the	_
-33	viejita	_	_	_	_	_	_	_	Gloss=old_lady	_
-34	y	_	_	_	_	_	_	_	Gloss=and	_
-35	ezque	_	_	_	_	_	_	_	Gloss=supposedly	_
+26	lo	_	_	_	_	_	_	_	Gloss=let_go
+27	soltó	_	_	_	_	_	_	_	Gloss=let_go
+28	y	_	_	_	_	_	_	_	Gloss=and
+29	entonces	_	_	_	_	_	_	_	Gloss=then
+30	cuando	_	_	_	_	_	_	_	Gloss=when
+31	llego	_	_	_	_	_	_	_	Gloss=arrived
+32	la	_	_	_	_	_	_	_	Gloss=the
+33	viejita	_	_	_	_	_	_	_	Gloss=old_lady
+34	y	_	_	_	_	_	_	_	Gloss=and
+35	ezque	_	_	_	_	_	_	_	Gloss=supposedly
 36	le	to her/him	_	_	_	_	_	_	_	_
 37	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
 38	:	_	_	_	_	_	_	_	_
@@ -581,15 +581,15 @@
 40	¡	_	_	_	_	_	_	_	SpaceAfter=No
 41	ajá	_	_	_	_	_	_	_	Gloss=aha|SpaceAfter=No
 42	!	_	_	_	_	_	_	_	_
-43	vos	_	_	_	_	_	_	_	Gloss=you	_
-44	sos	_	_	_	_	_	_	_	Gloss=are	_
-45	el	_	_	_	_	_	_	_	Gloss=the	_
-46	que	_	_	_	_	_	_	_	Gloss=who	_
-47	te	_	_	_	_	_	_	_	Gloss=you	_
+43	vos	_	_	_	_	_	_	_	Gloss=you
+44	sos	_	_	_	_	_	_	_	Gloss=are
+45	el	_	_	_	_	_	_	_	Gloss=the
+46	que	_	_	_	_	_	_	_	Gloss=who
+47	te	_	_	_	_	_	_	_	Gloss=you
 48	vienes	are coming	_	_	_	_	_	_	_	_
-49	a	_	_	_	_	_	_	_	Gloss=to	_
-50	robar	_	_	_	_	_	_	_	Gloss=steal	_
-51	las	_	_	_	_	_	_	_	Gloss=the	_
+49	a	_	_	_	_	_	_	_	Gloss=to
+50	robar	_	_	_	_	_	_	_	Gloss=steal
+51	las	_	_	_	_	_	_	_	Gloss=the
 52	uvillas	_	_	_	_	_	_	_	Gloss=physalis|SpaceAfter=No
 53	.	_	_	_	_	_	_	_	_
 
