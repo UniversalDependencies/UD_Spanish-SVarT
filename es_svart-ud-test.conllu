@@ -430,7 +430,7 @@
 14	religión	_	_	_	_	_	_	_	Gloss=religion
 15	sos	_	_	_	_	_	_	_	Gloss=are_you|SpaceAfter=No
 16	?	_	_	_	_	_	_	_	_
-17-18	contame	_	_	_	_	_	_	Gloss=tell_me
+17-18	contame	_	_	_	_	_	_	_	Gloss=tell_me
 17	conta	_	_	_	_	_	_	_	Gloss=tell
 18	me	_	_	_	_	_	_	_	Gloss=me
 19	un	_	_	_	_	_	_	_	Gloss=a
@@ -493,7 +493,7 @@
 3	eh	_	_	_	_	_	_	_	Gloss=eh|SpaceAfter=No
 4	,	_	_	_	_	_	_	_	_
 5	salís	_	_	_	_	_	_	_	Gloss=you_go_out
-6-7	del	of the	_	_	_	_	_	_	_	_
+6-7	del	_	_	_	_	_	_	_	_
 6	de	_	_	_	_	_	_	_	Gloss=of
 7	el	_	_	_	_	_	_	_	Gloss=the
 8	bar	_	_	_	_	_	_	_	Gloss=bar
@@ -504,7 +504,7 @@
 13	de	_	_	_	_	_	_	_	Gloss=of
 14	la	_	_	_	_	_	_	_	Gloss=the
 15	escalera	_	_	_	_	_	_	_	Gloss=stairs
-16-17	del	of_the	_	_	_	_	_	_	_	_
+16-17	del	_	_	_	_	_	_	_	_
 16	de	_	_	_	_	_	_	_	Gloss=of
 17	el	_	_	_	_	_	_	_	Gloss=the
 18	bañe	_	_	_	_	_	_	_	Gloss=bathroom
@@ -541,12 +541,12 @@
 # lang = es
 1	En	_	_	_	_	_	_	_	Gloss=Afterwards
 2	después	_	_	_	_	_	_	_	Gloss=afterwards
-3	le	to her/him	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	Gloss=to_him\her
 4	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
 5	:	_	_	_	_	_	_	_	_
 6	"	_	_	_	_	_	_	_	SpaceAfter=No
-7	Te	I'll	_	_	_	_	_	_	_	_
-8	pego	hit you	_	_	_	_	_	_	_	_
+7	Te	_	_	_	_	_	_	_	Gloss=I'll
+8	pego	_	_	_	_	_	_	_	Gloss=hit_you
 9	un	_	_	_	_	_	_	_	Gloss=a
 10	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt|SpaceAfter=No
 11	,	_	_	_	_	_	_	_	_
@@ -563,7 +563,7 @@
 22	el	_	_	_	_	_	_	_	Gloss=the
 23	cabezazo	_	_	_	_	_	_	_	Gloss=headbutt
 24	y	_	_	_	_	_	_	_	Gloss=and
-25	no	didn't	_	_	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	Gloss=didn't
 26	lo	_	_	_	_	_	_	_	Gloss=let_go
 27	soltó	_	_	_	_	_	_	_	Gloss=let_go
 28	y	_	_	_	_	_	_	_	Gloss=and
@@ -574,7 +574,7 @@
 33	viejita	_	_	_	_	_	_	_	Gloss=old_lady
 34	y	_	_	_	_	_	_	_	Gloss=and
 35	ezque	_	_	_	_	_	_	_	Gloss=supposedly
-36	le	to her/him	_	_	_	_	_	_	_	_
+36	le	_	_	_	_	_	_	_	Gloss=to_him\her
 37	dijo	_	_	_	_	_	_	_	Gloss=said|SpaceAfter=No
 38	:	_	_	_	_	_	_	_	_
 39	"	_	_	_	_	_	_	_	SpaceAfter=No
@@ -586,7 +586,7 @@
 45	el	_	_	_	_	_	_	_	Gloss=the
 46	que	_	_	_	_	_	_	_	Gloss=who
 47	te	_	_	_	_	_	_	_	Gloss=you
-48	vienes	are coming	_	_	_	_	_	_	_	_
+48	vienes	_	_	_	_	_	_	_	Gloss=are_coming
 49	a	_	_	_	_	_	_	_	Gloss=to
 50	robar	_	_	_	_	_	_	_	Gloss=steal
 51	las	_	_	_	_	_	_	_	Gloss=the
