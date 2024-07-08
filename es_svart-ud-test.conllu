@@ -72,9 +72,9 @@
 # lang = es
 1	en	in	_	_	_	_	_	_	_
 2	noviembre	November	_	_	_	_	_	_	_
-3	tení	you had	_	_	_	_	_	_	_
+3	tení	you_had	_	_	_	_	_	_	_
 4	que	to	_	_	_	_	_	_	_
-5	llenar	fill out	_	_	_	_	_	_	_
+5	llenar	fill_out	_	_	_	_	_	_	_
 6	el	the	_	_	_	_	_	_	_
 7	FUAS	FUAS	_	_	_	_	_	_	_
 8	y	and	_	_	_	_	_	_	_
@@ -100,7 +100,7 @@
 2	como	as/like	_	_	_	_	_	_	_
 3	¿	_	_	_	_	_	_	_	SpaceAfter=No
 4	cómo	how	_	_	_	_	_	_	_
-5	decís	you say	_	_	_	_	_	_	_
+5	decís	you_say	_	_	_	_	_	_	_
 6	acá	here	_	_	_	_	_	_	SpaceAfter=No
 7	?	_	_	_	_	_	_	_	_
 8	a	to	_	_	_	_	_	_	_
@@ -109,7 +109,7 @@
 11	evitar	avoid	_	_	_	_	_	_	_
 12	que	that	_	_	_	_	_	_	_
 13	te	you	_	_	_	_	_	_	_
-14	metieran	get into	_	_	_	_	_	_	_
+14	metieran	get_into	_	_	_	_	_	_	_
 15-16	al	_	_	_	_	_	_	_	_
 15	a	to	_	_	_	_	_	_	_
 16	el	the	_	_	_	_	_	_	_
@@ -187,13 +187,13 @@
 # lang = es
 1	iba	was going	_	_	_	_	_	_	_
 2	a	to	_	_	_	_	_	_	_
-3	salir	go out	_	_	_	_	_	_	_
+3	salir	go_out	_	_	_	_	_	_	_
 4	más	later	_	_	_	_	_	_	_
 5	tarde	late	_	_	_	_	_	_	SpaceAfter=No
 6	,	_	_	_	_	_	_	_	_
 7	vos	you	_	_	_	_	_	_	_
 8	siempre	always	_	_	_	_	_	_	_
-9	salís	go out	_	_	_	_	_	_	_
+9	salís	go_out	_	_	_	_	_	_	_
 10	tarde	late	_	_	_	_	_	_	SpaceAfter=No
 
 # sent_id = PRESEEA-GUAT_H12_044-7
@@ -217,7 +217,7 @@
 11	vender	sell	_	_	_	_	_	_	SpaceAfter=No
 12	,	_	_	_	_	_	_	_	_
 13	porque	because	_	_	_	_	_	_	_
-14	tengo	I have	_	_	_	_	_	_	_
+14	tengo	I_have	_	_	_	_	_	_	_
 15	entendido	understood	_	_	_	_	_	_	_
 16	que	that	_	_	_	_	_	_	_
 17	que	that	_	_	_	_	_	_	_
@@ -286,7 +286,7 @@
 6	es	is	_	_	_	_	_	_	_
 7	nuestro	our	_	_	_	_	_	_	_
 8	año	year	_	_	_	_	_	_	_
-9	decís	you say	_	_	_	_	_	_	_
+9	decís	you_say	_	_	_	_	_	_	_
 10	vos	you	_	_	_	_	_	_	_	SpaceAfter=No
 11	?	_	_	_	_	_	_	_	SpaceAfter=No
 
@@ -312,9 +312,9 @@
 10	que	that	_	_	_	_	_	_	_
 11	vas	you go	_	_	_	_	_	_	_
 12	te	you	_	_	_	_	_	_	_
-13	miro	I see	_	_	_	_	_	_	_
+13	miro	I_see	_	_	_	_	_	_	_
 14	que	that	_	_	_	_	_	_	_
-15	venís	you come	_	_	_	_	_	_	_
+15	venís	you_come	_	_	_	_	_	_	_
 16	un	a	_	_	_	_	_	_	_
 17	poco	little	_	_	_	_	_	_	_
 18	lacia	lean	_	_	_	_	_	_	_
@@ -326,7 +326,7 @@
 23	que	that	_	_	_	_	_	_	_
 24	te	you	_	_	_	_	_	_	_
 25	conviene	suits	_	_	_	_	_	_	_
-26	estar	to be	_	_	_	_	_	_	_
+26	estar	to_be	_	_	_	_	_	_	_
 27	un	a	_	_	_	_	_	_	_
 28	mes	month	_	_	_	_	_	_	_
 29	allá	there	_	_	_	_	_	_	SpaceAfter=No
@@ -344,7 +344,7 @@
 3	¿	_	_	_	_	_	_	_	SpaceAfter=No
 4	no	right	_	_	_	_	_	_	SpaceAfter=No
 5	?	_	_	_	_	_	_	_	_
-6	seguís	you are still	_	_	_	_	_	_	_	_
+6	seguís	you_are_still	_	_	_	_	_	_	_	_
 7	por	on	_	_	_	_	_	_	_	_
 8	el	the	_	_	_	_	_	_	_	_
 9	veintisiete	twenty-seven	_	_	_	_	_	_	_	_
@@ -368,7 +368,7 @@
 6	o	or	_	_	_	_	_	_	_
 7	cómo	how	_	_	_	_	_	_	_
 8	te	you	_	_	_	_	_	_	_
-9	considerás	consider yourself	_	_	_	_	_	_	_	SpaceAfter=No
+9	considerás	consider_yourself	_	_	_	_	_	_	_	SpaceAfter=No
 10	?	_	_	_	_	_	_	_	_
 
 # sent_id = ALEC-ALEC_C22_N40_5-2
@@ -385,7 +385,7 @@
 4	una	a	_	_	_	_	_	_	_
 5	posada	lodging	_	_	_	_	_	_	_
 6	porque	because	_	_	_	_	_	_	_
-7	viene	is coming	_	_	_	_	_	_	_
+7	viene	is_coming	_	_	_	_	_	_	_
 8	mi	my	_	_	_	_	_	_	_
 9	hija	daughter	_	_	_	_	_	_	_
 10	y	and	_	_	_	_	_	_	_
@@ -394,13 +394,13 @@
 13	,	_	_	_	_	_	_	_	_
 14	"	_	_	_	_	_	_	_	SpaceAfter=No
 15	te	you	_	_	_	_	_	_	_
-16	entumís	get numb	_	_	_	_	_	_	_	SpaceAfter=No
+16	entumís	get_numb	_	_	_	_	_	_	_	SpaceAfter=No
 17	"	_	_	_	_	_	_	_	SpaceAfter=No
 18	,	_	_	_	_	_	_	_	_
 19	izque	supposedly	_	_	_	_	_	_	_	_
 20	dijo	said	_	_	_	_	_	_	_	SpaceAfter=No
 21	,	_	_	_	_	_	_	_	_
-22-23	del	from the	_	_	_	_	_	_	_	_
+22-23	del	from_the	_	_	_	_	_	_	_	_
 22	de	from	_	_	_	_	_	_	_	_
 23	el	the	_	_	_	_	_	_	_	_
 24	hielo	cold	_	_	_	_	_	_	_	SpaceAfter=No
@@ -416,7 +416,7 @@
 # lang = es
 1	cambiando	changing	_	_	_	_	_	_	_
 2	un	a	_	_	_	_	_	_	_
-3	poquito	little bit	_	_	_	_	_	_	_
+3	poquito	little_bit	_	_	_	_	_	_	_
 4	la	the	_	_	_	_	_	_	_
 5	conversación	conversation	_	_	_	_	_	_	_
 6	en	in	_	_	_	_	_	_	_
@@ -430,11 +430,11 @@
 14	religión	religion	_	_	_	_	_	_	_
 15	sos	are you	_	_	_	_	_	_	_	SpaceAfter=No
 16	?	_	_	_	_	_	_	_	_
-17-18	contame	tell me	_	_	_	_	_	_	_	_
+17-18	contame	tell_me	_	_	_	_	_	_	_	_
 17	conta	tell	_	_	_	_	_	_	_	_
 18	me	me	_	_	_	_	_	_	_
 19	un	a	_	_	_	_	_	_	_
-20	poquito	little bit	_	_	_	_	_	_	_
+20	poquito	little_bit	_	_	_	_	_	_	_
 21	si	if	_	_	_	_	_	_	_
 22	vas	go	_	_	_	_	_	_	_
 23	a	to	_	_	_	_	_	_	_
@@ -459,7 +459,7 @@
 1	Ala	ala	_	_	_	_	_	_	SpaceAfter=No
 2	,	_	_	_	_	_	_	_	_
 3	pero	but	_	_	_	_	_	_	_
-4	sabes	you know	_	_	_	_	_	_	_
+4	sabes	you_know	_	_	_	_	_	_	_
 5	qué	what	_	_	_	_	_	_	_	SpaceAfter=No
 6	,	_	_	_	_	_	_	_	_
 7	que	that	_	_	_	_	_	_	_	SpaceAfter=No
@@ -476,7 +476,7 @@
 18	por	for	_	_	_	_	_	_	_
 19	todo	everything	_	_	_	_	_	_	_
 20	me	me	_	_	_	_	_	_	_
-21	formás	you form	_	_	_	_	_	_	_
+21	formás	you_form	_	_	_	_	_	_	_
 22	pelea	fight	_	_	_	_	_	_	_	SpaceAfter=No
 23	.	_	_	_	_	_	_	_	_
 
@@ -492,7 +492,7 @@
 2	abajo	downstairs	_	_	_	_	_	_	_
 3	eh	eh	_	_	_	_	_	_	SpaceAfter=No
 4	,	_	_	_	_	_	_	_	_
-5	salís	you go out	_	_	_	_	_	_	_
+5	salís	you_go_out	_	_	_	_	_	_	_
 6-7	del	of the	_	_	_	_	_	_	_	_
 6	de	of	_	_	_	_	_	_	_	_
 7	el	the	_	_	_	_	_	_	_	_
@@ -504,7 +504,7 @@
 13	de	of	_	_	_	_	_	_	_
 14	la	the	_	_	_	_	_	_	_
 15	escalera	stairs	_	_	_	_	_	_	_
-16-17	del	of the	_	_	_	_	_	_	_	_
+16-17	del	of_the	_	_	_	_	_	_	_	_
 16	de	of	_	_	_	_	_	_	_	_
 17	el	the	_	_	_	_	_	_	_	_
 18	bañe	bathroom	_	_	_	_	_	_	_	_
@@ -522,13 +522,13 @@
 3	es	is	_	_	_	_	_	_	_
 4	el	the	_	_	_	_	_	_	_
 5	que	that	_	_	_	_	_	_	_
-6	decís	you are saying	_	_	_	_	_	_	_
+6	decís	you_are_saying	_	_	_	_	_	_	_
 7	si	yes	_	_	_	_	_	_	_
 8	¿	_	_	_	_	_	_	_	SpaceAfter=No
 9	deja	allow	_	_	_	_	_	_	_
 10	usá	using	_	_	_	_	_	_	_
 11	el	the	_	_	_	_	_	_	_
-12	celulá	cell phone	_	_	_	_	_	_	_	SpaceAfter=No
+12	celulá	cell_phone	_	_	_	_	_	_	_	SpaceAfter=No
 13	?	_	_	_	_	_	_	_	_
 
 # sent_id = ALEC-ALEC_C26_P_1-10
@@ -552,11 +552,11 @@
 11	,	_	_	_	_	_	_	_	_
 12	si	if	_	_	_	_	_	_	_	_
 13	no	don't	_	_	_	_	_	_	_	_
-14	me	let go of me	_	_	_	_	_	_	_	_
-15	sueltas	let go	_	_	_	_	_	_	_	SpaceAfter=No
+14	me	let_go_of_me	_	_	_	_	_	_	_	_
+15	sueltas	let_go	_	_	_	_	_	_	_	SpaceAfter=No
 16	"	_	_	_	_	_	_	_	_
 17	y	and	_	_	_	_	_	_	_	_
-18	llegó	he arrived	_	_	_	_	_	_	_	_
+18	llegó	he_arrived	_	_	_	_	_	_	_	_
 19	y	and	_	_	_	_	_	_	_	_
 20	le	him	_	_	_	_	_	_	_	_
 21	pegó	hit	_	_	_	_	_	_	_	_
@@ -564,14 +564,14 @@
 23	cabezazo	headbutt	_	_	_	_	_	_	_	_
 24	y	and	_	_	_	_	_	_	_	_
 25	no	didn't	_	_	_	_	_	_	_	_
-26	lo	let go	_	_	_	_	_	_	_	_
-27	soltó	let go	_	_	_	_	_	_	_	_
+26	lo	let_go	_	_	_	_	_	_	_	_
+27	soltó	let_go	_	_	_	_	_	_	_	_
 28	y	and	_	_	_	_	_	_	_	_
 29	entonces	then	_	_	_	_	_	_	_	_
 30	cuando	when	_	_	_	_	_	_	_	_
 31	llego	arrived	_	_	_	_	_	_	_	_
 32	la	the	_	_	_	_	_	_	_	_
-33	viejita	old lady	_	_	_	_	_	_	_	_
+33	viejita	old_lady	_	_	_	_	_	_	_	_
 34	y	and	_	_	_	_	_	_	_	_
 35	ezque	supposedly	_	_	_	_	_	_	_	_
 36	le	to her/him	_	_	_	_	_	_	_	_
@@ -606,7 +606,7 @@
 3	que	that	_	_	_	_	_	_	_
 4	teníai	had	_	_	_	_	_	_	_
 5	que	to	_	_	_	_	_	_	_
-6-7	ponerlo	put it in	_	_	_	_	_	_	_
+6-7	ponerlo	put_it_in	_	_	_	_	_	_	_
 6	poner	put	_	_	_	_	_	_	_
 7	lo	it	_	_	_	_	_	_	_
 8	tú	you	_	_	_	_	_	_	_
